@@ -1,0 +1,25 @@
+Field=Designator~String~Designator~142|Field=Quantity~Integer~Quantity~62|Field=Value~String~Value~96|Field=Supplier 1~String~Supplier 1~70|Field=Supplier Part Number 1~String~Supplier Part Number 1~136|Field=Description~String~Description~156|Field=DocumentName~String~DocumentName~145|Field=Manufacturer 1~String~Manufacturer 1~186|Field=Manufacturer Part Number 1~String~Manufacturer Part Number 1~157|Field=Supplier Unit Price 1~Float~Supplier Unit Price 1~119|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Adaptador.PrjPCB|ReportField=ProjectFullPath~C:\Documents and Settings\Electronica\Mis documentos\MAQUINA DE ANESTESIA\tarjetas\adaptador\Adaptador.PrjPCB|ReportField=Title~Bill of Materials For Project [Adaptador.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~68|ReportField=ReportTime~04:07:46 p.m.|ReportField=ReportDate~16/04/2012|ReportField=ReportDateTime~16/04/2012 04:07:46 p.m.|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~16/04/2012|ReportField=CurrentTime~03:58:44 p.m.|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Documents and Settings\Electronica\Mis documentos\MAQUINA DE ANESTESIA\tarjetas\adaptador\adaptador.SchDoc|ReportField=DocumentName~adaptador.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~16/04/2012|ReportField=Organization~|ReportField=ProjectName~Adaptador.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~Adaptador.PrjPCB|ReportField=DataSourceFullPath~C:\Documents and Settings\Electronica\Mis documentos\MAQUINA DE ANESTESIA\tarjetas\adaptador\Adaptador.PrjPCB
+JMINI, JTCON|2||Newark|41M0934|FPC 40pos 0.5mm|adaptador.SchDoc|OMRON ELECTRONIC COMPONENTS|XF2M-4015-1A|2.78
+Q1, Q2, Q3, Q5|4||Mouser|781-SI4156DY-GE3|N-Channel MOSFET|adaptador.SchDoc|Mouser|781-SI4156DY-GE3|0.741
+ABS, GPG0, LA, LB, LR, PRES, SGG, SW, VDD|9||Newark|38K8066|mini_header 2x1|adaptador.SchDoc|JST (JAPAN SOLDERLESS TERMINALS)|S2B-PH-K-S (LF)(SN)|0.2
+PWR|1||Newark|02N4683|Minifit 6pos v/h 4.2mm|adaptador.SchDoc|MULTICOMP|MC34661|0.55
+C14|1|1uF|Mouser|81-GRM31CR61A475JA01|Capacitor cerámico|adaptador.SchDoc|Mouser|81-GRM31CR61A475JA01|0.455
+C7|1|0.1uF|Mouser|81-GRM31CR61A475JA01|Capacitor cerámico|adaptador.SchDoc|Mouser|81-GRM31CR61A475JA01|0.455
+A1, CON4, K1, Q4, Q6, U4, U10, V1, V2, V3, V4|11||||Dual-Pole Dual-Throw Relay, Electric Field Imaging Device, Header, 17-Pin, Dual row, NPN Epitaxial Silicon Transistor, Positive Voltage Regulator, Semiconductor Resistor|adaptador.SchDoc|||
+C1, C4, C9|3|1uF|Newark|06R4217|Capacitor cerámico|adaptador.SchDoc|MULTICOMP|MC1206B105K500CT|0.07
+C12, C13|2|10uF|Newark|70K9703|Capacitor|adaptador.SchDoc|MULTICOMP|MCGPR50V226M5X11|0.04
+C2, C5, C10|3|0.01uF|Newark|06R4197|Capacitor cerámico|adaptador.SchDoc|MULTICOMP|MC1206B103K500CT|0.03
+C3, C6, C11|3|0.33uF|Newark|90R7807|Capacitor cerámico|adaptador.SchDoc|TDK|C3216X7R1H334K|0.1
+C8, C15, C17|3|0.1uF|Newark|06R4208|Capacitor cerámico|adaptador.SchDoc|MULTICOMP|MC1206B104K500CT|0.06
+R1, R4, R7|3|750|Newark|79M6231|Resistor|adaptador.SchDoc|MULTICOMP|MC1206S4F7500T5E|0.01
+R10|1|56k|Newark|98K7623|Resistor|adaptador.SchDoc|YAGEO (PHYCOMP)|RC1206FR-07100KL|0.02
+R14, R15|2|270|Newark|79M6155|Resistor|adaptador.SchDoc|MULTICOMP|MC1206S4F1800T5E|0.01
+R16|1|1M|Newark|68R0301|Resistor|adaptador.SchDoc|YAGEO|RC1206JR-071ML|0.01
+R17|1|0|Newark|98K7623|Resistor|adaptador.SchDoc|YAGEO (PHYCOMP)|RC1206FR-07100KL|0.02
+R2|1|47k|Newark|79M6155|Resistor|adaptador.SchDoc|MULTICOMP|MC1206S4F1800T5E|0.01
+R3|1|10k|Newark|79M6155|Resistor|adaptador.SchDoc|MULTICOMP|MC1206S4F1800T5E|0.01
+R5, R6, R9, R11, R12, R13, R18, R19|8|10k|Newark|98K7623|Resistor|adaptador.SchDoc|YAGEO (PHYCOMP)|RC1206FR-07100KL|0.02
+R8, R20|2|0|Newark|79M6155|Resistor|adaptador.SchDoc|MULTICOMP|MC1206S4F1800T5E|0.01
+TS|1||Newark|08N6746|Header 4pos 2.54mm|adaptador.SchDoc|MULTICOMP|2211S-04G|0.04
+U1, U2, U3|3||Newark|70K3588|Sensor de presión diferencial|adaptador.SchDoc|FREESCALE SEMICONDUCTOR|MPXV7002DPT1|17.91
+U5|1||Newark|88H4662|Low-Power Dual Voltage Comparator|adaptador.SchDoc|ON SEMICONDUCTOR|LM393DR2G|0.21

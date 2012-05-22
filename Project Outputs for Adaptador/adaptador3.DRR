@@ -1,0 +1,25 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: adaptador3.PcbDoc   20/04/2012  10:32:29 a.m.
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : adaptador3.TXT
+EIA File   : adaptador3.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        15mil (0.381mm)          Round          104              34.06 Inch (865.08 mm)
+T2        22mil (0.5588mm)         Round          2                2.64 Inch (66.97 mm)
+T3        25mil (0.635mm)          Round          1                0.00 Inch (0.00 mm)
+T4        28mil (0.7112mm)         Round          7                6.95 Inch (176.47 mm)
+T5        30mil (0.762mm)          Round          30               7.78 Inch (197.71 mm)
+T6        31mil (0.7874mm)         Round          34               3.07 Inch (78.00 mm)
+T7        35mil (0.889mm)          Round          4                0.30 Inch (7.62 mm)
+T8        39mil (0.9906mm)         Round          2                1.18 Inch (30.00 mm)
+T9        43mil (1.0922mm)         Round          3                0.20 Inch (5.08 mm)
+T10       52mil (1.3208mm)         Round          6                0.88 Inch (22.30 mm)
+T11       188mil (4.7752mm)        Round          4                12.37 Inch (314.11 mm)
+---------------------------------------------------------------------------
+Totals                                            197              69.42 Inch (1763.34 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
